@@ -78,3 +78,40 @@
     from {transform: translateY(0px);}
     to{transform: translateY(50px);}
 }
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Special+Gothic+Expanded+One&display=swap" rel="stylesheet">
+<!-- Fonts -->
+
+     <link rel="stylesheet" href="css/reset.css">
+     <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+
+<!-- bg image -->
+     <section>
+        <div class="mainbg">
+            <div class="childbg">
+                <h1 class="satauri">Best food for your taste</h1>
+                <h4 class="agwera">Long headline to turn your visitors into users</h4>
+            </div>
+        </div>
+     </section>
+<!-- bg image -->
+
+<!-- keyframed image -->
+     <section>
+        <div class="maindot">
+            <img class="childdot" src="img/download.png" alt="">
+        </div>
+     </section>
