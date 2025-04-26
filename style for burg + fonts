@@ -126,3 +126,19 @@
     align-items: center;
   }
 }
+
+
+
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-ExtraBoldItalic.eot');
+    src: url('../fonts/Roboto-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Roboto-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/Roboto-ExtraBoldItalic.svg#Roboto-ExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
